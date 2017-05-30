@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # py-chrome-bookmarks [![Build Status](https://travis-ci.org/bdesham/py-chrome-bookmarks.svg?branch=master)](https://travis-ci.org/bdesham/py-chrome-bookmarks)
 
 Scripts to convert [Google Chrome]’s bookmarks and history to the [standard HTML-ish bookmarks file format][format].
@@ -56,3 +57,6 @@ This project is [hosted on GitHub](https://github.com/bdesham/py-chrome-bookmark
 ## License
 
 Copyright © 2011, 2017 Benjamin D. Esham. This program is released under the ISC license, which you can find in the file LICENSE.md.
+=======
+# Fetch-History-Bookmarks-From-Chrome
+>>>>>>> 0fed186fca6ab34e348abd3289776c0c8cb0d9ae
